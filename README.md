@@ -6,6 +6,6 @@ The goal of this repository is to gather resources for students working at the i
 #### How to Contribute
 Anyone who wishes to contribute by sharing resources they find useful are welcomed. 
 
-   - Make a pull request, and we will make sure to merge it to the list of current resources. 
+     - Make a pull request, and we will make sure to merge it to the list of current resources. 
 
 
